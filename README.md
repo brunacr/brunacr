@@ -1,4 +1,4 @@
-## Olá, mundo! Eu sou a Bruna, sejam bem-vindos! 👋🏻
+## Olá, mundo! Eu sou a Bruna, sejam bem-vindos! 👋🏻😉
 
 - 👩🏻‍🚀 Iniciante no universo da programação
 - 🌱 Atualmente estou aprendendo: Java, Spring Boot, SQL
