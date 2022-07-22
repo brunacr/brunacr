@@ -2,8 +2,7 @@
 
 - 👩🏻‍🚀 Iniciante no universo da programação
 - 🌱 Atualmente estou aprendendo: Java, Spring Boot, SQL
-- 📫 Como chegar até mim: <a href="https://www.linkedin.com/in/bruna-leitao/" target="_blank">https://www.linkedin.com/in/bruna-leitao/</a>
-
+- 📫 Como chegar até mim: https://www.linkedin.com/in/bruna-leitao/
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunacr&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
