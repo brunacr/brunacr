@@ -1,3 +1,7 @@
+
+<!-- Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunacr&color=yellow" alt="Profile views" /> </p>  
+
 ## Olá, mundo! Eu sou a Bruna, sejam bem-vindos! 👋🏻😉 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F743C3&multiline=true&width=500&height=40&lines=Java+Backend+Developer)](https://git.io/typing-svg)
@@ -8,10 +12,6 @@
  
  📫 Como chegar até mim: https://www.linkedin.com/in/bruna-leitao/  
  
-
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunacr&color=yellow" alt="Profile views" /> </p> 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunacr&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunacr&include_all_commits=true&show_icons=true&theme=radical)
@@ -26,6 +26,8 @@
 <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
 <img src=https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
 <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
-</div>     
+</div>  
+
+
           
           
