@@ -1,5 +1,10 @@
 ## Olá, mundo! Eu sou a Bruna, sejam bem-vindos! 👋🏻😉
 
+<!-- Profile Views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunacr&color=yellow" alt="Profile views" /> </p> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F743C3&multiline=true&height=40&lines=Java+Backend+Developer)](https://git.io/typing-svg)
+
 - 👩🏻‍🚀 Iniciante no universo da programação
 - 🌱 Atualmente estou aprendendo: Java, Spring Boot, SQL
 - 📫 Como chegar até mim: https://www.linkedin.com/in/bruna-leitao/
