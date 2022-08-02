@@ -1,14 +1,16 @@
-## Olá, mundo! Eu sou a Bruna, sejam bem-vindos! 👋🏻😉
+## Olá, mundo! Eu sou a Bruna, sejam bem-vindos! 👋🏻😉 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F743C3&multiline=true&width=500&height=40&lines=Java+Backend+Developer)](https://git.io/typing-svg)
+
+ 👩🏻‍🚀 Iniciante no universo da programação  
+ 
+ 🌱 Atualmente estou aprendendo: Java, Spring Boot, SQL  
+ 
+ 📫 Como chegar até mim: https://www.linkedin.com/in/bruna-leitao/  
+ 
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunacr&color=yellow" alt="Profile views" /> </p> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=F743C3&multiline=true&height=40&lines=Java+Backend+Developer)](https://git.io/typing-svg)
-
-- 👩🏻‍🚀 Iniciante no universo da programação
-- 🌱 Atualmente estou aprendendo: Java, Spring Boot, SQL
-- 📫 Como chegar até mim: https://www.linkedin.com/in/bruna-leitao/
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunacr&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
