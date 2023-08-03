@@ -1,7 +1,3 @@
-
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brunacr&color=yellow" alt="Profile views" /> </p>  
-
 ## Olá, mundo! Eu sou a Bruna, sejam bem-vindos! 👋🏻😉 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&duration=6000&color=F743C3&width=600&height=60&lines=Java+Backend+Developer)](https://git.io/typing-svg)
